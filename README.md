@@ -1,6 +1,6 @@
 # pomodoro-bar-py
 
-This is a single Python script equivalent to [pomodoro-bar](https://github.com/tkiat/pomodoro-bar). Visit there for more information.
+This is a single Python script equivalent to [pomodoro-bar](https://github.com/tkiat/pomodoro-bar). Visit there for usage information.
 
 ## Prerequisites
 
